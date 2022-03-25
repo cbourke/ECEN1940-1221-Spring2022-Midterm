@@ -81,7 +81,7 @@ will not hand them in.
 
 3. Given two bit vectors `a` and `b`, each of the same length, `n`, the
   *vector multiplication* is a new bit vector `c` also
-  of length `c` such that each element `c[i]`
+  of length `n` such that each element `c[i]`
   is the multiplication of the i-th elements in `a` and `b`; in other
   words `c[i] = a[i] * b[i]`.
 
